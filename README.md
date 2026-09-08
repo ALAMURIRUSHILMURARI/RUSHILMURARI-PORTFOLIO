@@ -5,8 +5,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rushil_Murari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rushil-murari-7010a82bb)
 [![CodeChef](https://img.shields.io/badge/CodeChef-klu2300030023-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/klu2300030023)
 
-> **Aspiring Software Engineer & Computer Science Undergraduate** (CGPA: **9.54**) at KL University.  
-> Specializing in **Layered Backend Architecture (Java 17 / Spring Boot 3.x)**, **Full-Stack Web Systems**, **Cloud & DevOps (AWS / Docker / Jenkins)**, and **AI/LLM Engineering**.
+> **Full-stack developer** focused on building responsive React applications, REST APIs, and backend services using Java/Spring Boot and Node.js, with hands-on experience in AI integrations, cloud deployment, and CI/CD.  
+> Computer Science Undergraduate (CGPA: **9.54**) at KL University.
 
 ---
 
