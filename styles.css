@@ -1372,13 +1372,12 @@ body {
 .footer-bottom {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
+    text-align: center;
     padding-top: 2rem;
     border-top: 1px solid var(--border-color);
     font-size: 0.85rem;
     color: var(--text-muted);
-    flex-wrap: wrap;
-    gap: 1rem;
 }
 
 /* --- BACK TO TOP BUTTON --- */
